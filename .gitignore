@@ -51,7 +51,7 @@ artifacts/
 *.ilk
 *.meta
 *.obj
-!frog.obj
+!*/frog.obj
 *.pch
 *.pdb
 *.pgc
